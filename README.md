@@ -1,4 +1,4 @@
-# Saint-Tropez Yield Vault 🌴🚢
+# Saint Tropez Yield Vault 🌴🚢
 
 A high-performance DeFi Yield Vault infrastructure designed for luxury real estate rental management on the Ethereum blockchain.
 
